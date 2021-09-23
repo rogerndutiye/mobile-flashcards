@@ -1,4 +1,4 @@
-#FlashCard.
+# FlashCard.
 
 This is a simple mobile flash card, that allows users to create questions and arrange them in decks.
 it allows users to question themselves on individual deck and shows the average of correct questions over the entire questions.
