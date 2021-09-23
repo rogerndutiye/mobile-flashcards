@@ -33,3 +33,4 @@ then you can scan the QR code with your smart phone to use the app or you can ru
 ## Platforms.
 
 This project should work fine both on android and ios, however it has only been tested on ios emulator
+![screenshot #1](assets/app.gif)
