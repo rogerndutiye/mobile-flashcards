@@ -1,9 +1,9 @@
-### FlashCard.
+#FlashCard.
 
 This is a simple mobile flash card, that allows users to create questions and arrange them in decks.
 it allows users to question themselves on individual deck and shows the average of correct questions over the entire questions.
 
-# Features:
+### Features:
 
 - Allows users to create a deck which can hold an unlimited number of cards.
 - Allows users to add a card to a specific deck.
@@ -30,6 +30,6 @@ yarn start
 
 then you can scan the QR code with your smart phone to use the app or you can run it with the web option.
 
-### platforms.
+## Platforms.
 
 This project should work fine both on android and ios, however it has only been tested on ios emulator
